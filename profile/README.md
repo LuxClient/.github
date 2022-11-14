@@ -1,7 +1,3 @@
-# -LUX CLIENT-
+# Lux Client
 
-Lux Client used to be a 1.8.9 Minecraft PVP client. Due to some issues the proect got closed recently. The client is now open source.
-For more info about why the client got ended on our discord server
-
-* [discord](https://discord.gg/mnn98vhYZ6)
-* [website](http://www.luxclient.net/)
+Lux client used to be a minecraft pvp for 1.8.9. It was never actually released but for those who want to check out it's sourcecode the [repository](https://github.com/LuxClient/Client_1.8.9) is open source.
